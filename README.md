@@ -1,1 +1,1 @@
-# codepath-ai
+Code for AI/LLM Bootcamp
